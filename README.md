@@ -1,5 +1,7 @@
 # GitTutorial
-Start by cloning the repository
+Open the command line and make a directory called "GitTutorial" 
+change to the directory "cd GitTutorial" 
+Start by cloning the repository -> "git clone https://github.com/JimmyTT/GitTutorial.git" 
 
 branch out -> "git checkout -b feature_YOURNAME" 
 
